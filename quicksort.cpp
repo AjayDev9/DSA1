@@ -32,6 +32,7 @@ void quick(int arr[], int low, int up){
     }
 }
    
+
 int main() {
     int arr[MAX], n, i;
 
