@@ -22,7 +22,6 @@ int main()
         {
             arr[j+1] = arr[j];
         }
-
         arr[j+1] = k;
     }
 
